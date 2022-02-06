@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeff Lung</h1>
-<h3 align="center">A passionate web designer from Manchester(from Hongkong originally)</h3>
+<h3 align="center">A passionate web designer from Manchester (Hongkong originally)</h3>
 
 - 🔭 I’m currently looking for **the role of web designer or junior user experience designer**
 
