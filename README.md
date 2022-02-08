@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently looking for **the role of web designer or junior user experience designer**
 
+- 🌱 I’m a bachelor degree holder **in Creative Technologies awarded by Coventry University. I completed the Skills Bootcamp in Digital with Manchester Metropolitan Univeristy in January 2022.**
+
 - 👯 I’m looking to collaborate on **javascript, react, unity projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jefflung](https://github.com/jefflung)
