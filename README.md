@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeff Lung</h1>
 <h3 align="center">A passionate web designer from Manchester(Hongkong originally)</h3>
 
-- 🔭 I’m currently looking for **the role of web designer or junior user experience designer**
+- 🔭 I’m currently working as an email designer in a nice company, but I am still strive to sharpen my skill as a **Web/UX designer/developer**
 
 - 🌱 I’m a bachelor degree holder **in Creative Technologies awarded by Coventry University. I completed the Skills Bootcamp in Digital with Manchester Metropolitan Univeristy in January 2022.**
 
